@@ -1,0 +1,212 @@
+/* mobile apps */
+
+@media only screen and (min-width: 320px) and (max-width : 505px) {
+
+body{
+    font-size: 20px;            
+    line-height: 1.8em;        
+}
+    
+h3{
+    font-size: 90%;
+    letter-spacing: 2px;
+    padding: 10px;
+}
+
+p{
+  font-size: 80%;
+}
+    
+/* ========== Slogan Area =============== */
+h1{
+
+    width: auto;   
+    letter-spacing: 1px;
+    font-size:1em;
+}
+
+/* ==============  HOME PAGE ======================= */
+.homepage{
+    height: 80vh;
+    padding:50px 20px;
+    margin:63px 0px;
+    background-attachment: scroll;
+}
+
+/* <=============== Parallax Area =============================> */
+
+
+.code-img{
+  background-attachment: scroll;
+  height: 300px;
+
+}
+
+.section-image > img{
+  padding-top: 10px;
+}
+
+img{
+  width: 60px;
+  height: 60px;
+}
+
+
+/* ============== CONTENT AREA  ======================= */
+
+.slide1{
+  height: 110%;
+  padding: 2% 20px;
+}
+
+.line1{
+  width: 50px;
+  border-top: 2px solid rgb(46, 193, 119); 
+}
+    
+    
+
+.line3{
+  width: 50px;
+  border-top: 2px solid rgb(28, 1, 19);
+}
+
+.slide3{
+  padding: 2%;
+  height: 250%;
+}
+
+
+.slide4{
+  height: 110%;
+  padding: 2% 20px;
+}
+
+
+.line4{ 
+  width: 50px;
+  border-top: 2px solid white;
+}
+
+.profile{
+  height: 150%;
+  padding: 2%;
+}
+
+.lineProfile{
+  width: 50px;
+  border-top: 2px solid rgba(29, 89, 194, 0.80);
+}
+          
+/* <=============== Slide Area =============================> */
+          
+  .social {        
+    width: 0vh;   
+    margin-bottom:0vh;
+    position: fixed;
+    top: 80px;
+    left:0px;
+  }
+
+  .social ul{
+    margin:auto;
+    display: flex;     
+    flex-direction: column;
+  }
+
+  .social ul li {
+    display: block;
+    background: rgba(0, 0, 0, 0.36);
+    width: 300px;   
+    text-align: right;
+    padding: 5px;
+    margin: 2px;
+    -webkit-border-radius: 0 30px 30px 0;
+    -moz-border-radius: 0 30px 30px 0;
+    border-radius: 0 30px 30px 0;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+  }
+
+  .social ul li a{
+    width: 280px;
+    height: auto;        
+    line-height: 0px;
+    font-size: 15px;
+    text-align: right;
+  }
+/* =========================================================== */
+  .social ul {    
+    padding: 0px;
+    -webkit-transform: translate(-270px, 0);
+    -moz-transform: translate(-270px, 0);
+    -ms-transform: translate(-270px, 0);
+    -o-transform: translate(-270px, 0);
+    transform: translate(-270px, 0);
+  }
+
+  .social ul li:hover {
+    -webkit-transform: translate(90px, 0);
+    -moz-transform: translate(90px, 0);
+    -ms-transform: translate(90px, 0);
+    -o-transform: translate(90px, 0);
+    transform: translate(90px, 0);
+    background: rgba(255, 255, 255, 0.4);
+  }
+
+
+  .social ul li:hover a {
+    color: #AC1010;
+  }
+
+
+  .social ul li:hover i {
+    color: #fff;
+    background: green;
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+  }
+
+
+  .social ul li i {
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 10px;
+    color: #000;
+    width: 10px;
+    height: 10px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background:#F9F5F5;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    display: inline-block;
+  }
+}
+
+/* ================== */
+
+
+#modalResume  .container2 h4{
+  text-align: center;
+  font-size: 18px;
+}
+
+#modalResume  .container2 p{
+  font-size: 13px;
+}
