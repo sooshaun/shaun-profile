@@ -80,6 +80,7 @@ I want to create my first webpage purely using HTML and CSS. I will use CSS to r
 ##6.0 Finished product
 
 ##6.1 Mobile view
+
 ![](img/photo-4.png)
 
 
