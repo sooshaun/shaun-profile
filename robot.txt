@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:/css/
 
-sitemap: https://shaunprofile2.netlify.com/
+sitemap: https://shaunprofile2.netlify.com/sitemap.xml
