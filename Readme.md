@@ -71,6 +71,8 @@ The thought process: -
 
 ![](img/photo-3.png)
 
+https://www.figma.com/file/HZly7ztOGIrLJakOwBbKX8to/my-first-figma-design
+
 ---------------------------------------------------------
 
 ## 5.0 Code
